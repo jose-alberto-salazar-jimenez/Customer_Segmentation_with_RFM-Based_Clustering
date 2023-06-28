@@ -26,7 +26,7 @@ Note:
 
 ---
 
-## RFM Analysis in a nutshell:
+## RFM Scores (Analysis) in a nutshell:
 An **RFM Analysis** is used to segment/categorize customers around three measures:
     - Recency (R): when was the last time a client bought/paid something.
     - Frequency (F): how often does a customer buy/pay soemthing.
